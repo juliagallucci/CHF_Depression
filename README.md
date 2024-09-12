@@ -1,8 +1,8 @@
-# CHF_Depression
+# CHF_Depressive_Symptoms
 
 1. heartseek_labels.py
 
-Extract the baseline and follow-up depression scores, cluster baseline and follow-up 
+Extract the baseline and follow-up depressive symptom scores, cluster baseline and follow-up 
 scores using GMM where the best cluster number is determined using silhouette score, 
 construct trajectories based on baseline and follow-up clusters, output trajectory 
 labels and features of interest. 
